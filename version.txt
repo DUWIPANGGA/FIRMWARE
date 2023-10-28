@@ -1,4 +1,1 @@
-{
-  "version": 1.0,
-  "firmware":"https://github.com/DUWIPANGGA/FIRMWARE/blob/main/OTA_ver_0.1.ino.bin",
-}
+1.0
