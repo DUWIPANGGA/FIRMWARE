@@ -1,1 +1,1 @@
-{"version":0.1,"link":"https://raw.githubusercontent.com/DUWIPANGGA/FIRMWARE/main/OTA_ver_0.1.ino.bin"}
+1.1
