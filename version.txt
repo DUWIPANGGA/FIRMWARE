@@ -1,1 +1,1 @@
-{"ver":1.0,"link":"https://raw.githubusercontent.com/DUWIPANGGA/FIRMWARE/main/OTA_ver_0.1.ino.bin"}
+{"ver":1.0,"link":"https://raw.githubusercontent.com/DUWIPANGGA/FIRMWARE/main/OTA_ver_0.1.bin"}
